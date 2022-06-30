@@ -1,0 +1,2 @@
+<view class="intro">自定义 node_modules 和 miniprogram_npm 位置的构建 npm 方式</view>
+<view class="intro">请观察 project.config.json 并点击 工具 -> 构建npm</view>
